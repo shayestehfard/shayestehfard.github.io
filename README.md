@@ -7,4 +7,4 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 
 The main body of the pages are obtained from [HTML5UP](https://html5up.net/)
 
-You can find my website here [here](https://shayestehfard.github.io/) 
+You can find my website from [here](https://shayestehfard.github.io/) 
