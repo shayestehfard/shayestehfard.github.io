@@ -6,4 +6,5 @@ My research interests include machine learning, graph mining, and optimization. 
 Apart from research, I enjoy sharing my knowledge with others and learning from the community. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
 
 The main body of the pages are obtained from [HTML5UP](https://html5up.net/)
-You can find my website here [here]([https://html5up.net/](https://shayestehfard.github.io/)https://shayestehfard.github.io/) 
+
+You can find my website here [here](https://shayestehfard.github.io/) 
